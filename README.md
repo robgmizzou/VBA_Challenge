@@ -1,4 +1,4 @@
-# VBA_Challenge<br>
+# VBA Challenge<br>
 ## Overview of the Project<br>
 <p> The purpose of this exercise was to drive more efficient execution of existing code by reworking and streamlineing the coursework from Module 2.<p/>
 
@@ -9,7 +9,7 @@
 Advantages of refactoring the code:<br>
 -Adaptabiity to add data with minimal future refactoring<br>
 -Concise code that makes sense logically<br>
--Efficient structure
+-Efficient structure<br>
 Disadvantages of refactoring the code:<br>
 -I MESSED IT UP<br>
 -Requires refactoring for additional tickers<br>
